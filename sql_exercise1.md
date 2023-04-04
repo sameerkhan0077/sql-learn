@@ -1,4 +1,4 @@
- 
+   ###          SQL QUERIES  ###
  1. What is the query to get all the details of a student along with the fees and result data for the student?
 ```
 select * from student s inner join fees f
